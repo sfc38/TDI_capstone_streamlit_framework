@@ -1,7 +1,1 @@
-pandas
-streamlit
-plotly
-python-dotenv
-altair
-bokeh
-requests
+streamlit==0.85.1
