@@ -1,1 +1,1 @@
-streamlit-nightly
+streamlit-nightly==0.85.2.dev20210728
